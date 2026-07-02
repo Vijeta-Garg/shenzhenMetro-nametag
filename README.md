@@ -1,6 +1,8 @@
 A Fallout PCB ~inspired by the beauty of the Shenzhen metro! 
 Do you often take the metro and like to listen to music and sleep in transit? This is a great name tag for you! 
 
+Slack ID: Vijeta-Garg 
+
 Features:
 - A map of the Shenzhen Metro on the back
 - Lights which light up at different metro stops
