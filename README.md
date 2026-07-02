@@ -7,4 +7,4 @@ Features:
 - An ability to load and play back a song using wire headphones on the metro!
 - Tracks your stop and buzzes to remind you of your stop a minute before doors might open!! (It also lets the people around you know that your stop is soon if they want to take your seat...) 
 
-<img width="1476" height="1244" alt="image" src="https://github.com/user-attachments/assets/bcecf46d-7f0b-4237-b77d-f84dc43c2f78" />
+<img width="1514" height="1062" alt="image" src="https://github.com/user-attachments/assets/3fd73a93-cb6c-4e3a-84d2-a5c4e446407c" />
