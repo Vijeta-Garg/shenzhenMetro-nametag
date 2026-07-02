@@ -9,13 +9,15 @@ Features:
 - An ability to load and play back a song using wire headphones on the metro!
 - Tracks your stop and buzzes to remind you of your stop a minute before doors might open!! (It also lets the people around you know that your stop is soon if they want to take your seat...) 
 
-<img width="1514" height="1062" alt="image" src="https://github.com/user-attachments/assets/3fd73a93-cb6c-4e3a-84d2-a5c4e446407c" />
+<img width="1462" height="1090" alt="image" src="https://github.com/user-attachments/assets/c0e2deb1-734b-4d97-a78d-919aea8ee551" />
 PCB
 
 <img width="1828" height="1288" alt="image" src="https://github.com/user-attachments/assets/7ca4796c-3f57-43cf-ac9d-e461022e46c1" />
 Schematic/Wiring Diagram 
 
-<img width="2024" height="1134" alt="image" src="https://github.com/user-attachments/assets/32972c2a-052e-4e55-8df9-3217ec1dd77f" />
+
+<img width="2518" height="1390" alt="image" src="https://github.com/user-attachments/assets/81b1f0aa-808b-45c2-bdf1-d172f6f17e18" />
+
 3D viewer 
 
 
